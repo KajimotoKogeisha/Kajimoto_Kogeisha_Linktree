@@ -45,6 +45,10 @@ body {
     text-decoration: none;
 }
 
+#userName a {
+    text-decoration:none;
+}
+
 #links {
     max-width: 675px;
     width: auto;
